@@ -62,7 +62,7 @@ cv2.VideoCapture(0)
 👉 Use:
 - 0 → Default webcam
 - 1 → External webcam
-- 
+  
 Step 2: Run the Application
 ```bash
 python app.py
