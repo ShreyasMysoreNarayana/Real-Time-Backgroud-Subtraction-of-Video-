@@ -90,7 +90,7 @@ Step 3: View Output
 - ☁️ Deploy as a cloud-based video processing service
 - 🎯 Add motion tracking and analytics
 
-##👤 Author
+## 👤 Author
 
 Shreyas Mysore Narayana
 
