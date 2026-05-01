@@ -91,6 +91,7 @@ Step 3: View Output
 - 🎯 Add motion tracking and analytics
 
 ##👤 Author
+
 Shreyas Mysore Narayana
 
 Data Scientist | Computer Vision Enthusiast | AI Engineer
